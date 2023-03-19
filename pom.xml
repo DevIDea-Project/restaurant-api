@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.project</groupId>
-	<artifactId>project-tia-marcus</artifactId>
+	<artifactId>project-restaurante</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>project-tia-marcus</name>
-	<description>API Projeto Tia de Marcus</description>
+	<name>project-restaurante</name>
+	<description>API Projeto Restaurante</description>
 
 
 	<properties>
