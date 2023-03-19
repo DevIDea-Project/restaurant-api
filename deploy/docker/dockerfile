@@ -1,0 +1,9 @@
+FROM openjdk:11-jre-slim
+
+WORKDIR /restaurante
+
+COPY target/*.jar /restaurante/app.jar
+
+EXPOSE 3000
+
+CMD java -XX:+UseContainerSupport -Xmx412m -jar app.jar
