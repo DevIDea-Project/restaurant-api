@@ -9,10 +9,10 @@
 		<version>2.4.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.project</groupId>
-	<artifactId>project-restaurante</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>project-restaurante</name>
+	<groupId>br.com.projeto</groupId>
+	<artifactId>projeto-restaurante</artifactId>
+	<version>latest</version>
+	<name>projeto-restaurante</name>
 	<description>API Projeto Restaurante</description>
 
 
